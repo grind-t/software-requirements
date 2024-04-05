@@ -1,5 +1,3 @@
 Key concepts:
-- Vision and scope document
-  - Business requirement
-- User requirements document
-  - User requirement
+
+<img width="511" alt="image" src="https://github.com/grind-t/software-requirements/assets/49301275/29f4d7d3-f642-4c94-9cd3-9d25b1390efc">
