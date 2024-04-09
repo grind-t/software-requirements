@@ -17,7 +17,7 @@ The document has the following structure:
   - Customer problems that the new product will address.
   - Examples of how customers would use the product.
   - Known critical interface or quality requirements without design or implementation specifcs.
--  Business objectives:
+- Business objectives:
   - Important business benefts the product will provide in a quantitative and measurable way.
     - Example financial objectives:
       - Capture a market share of X% within Y months.
@@ -37,6 +37,24 @@ The document has the following structure:
       - Comply with specifc federal and state regulations.
       - Receive no more than X service calls per unit and Y warranty calls per unit within Z months after shipping.
       - Reduce turnaround time to X hours on Y% of support calls.
+  - Success metrics:
+    - Indicators that stakeholders will use to defne and measure success on this project.
+  - Vision statement:
+    - A concise vision statement that summarizes the long-term purpose and intent of the product with the following structure:
+      - For [target customer]
+      - Who [statement of the need or opportunity]
+      - The [product name]
+      - Is [product category]
+      - That [major capabilities, key beneft, compelling reason to buy or use]
+      - Unlike [primary competitive alternative, current system, current business process]
+      - Our product [statement of primary differentiation and advantages of new product]
+  - Business risks:
+    - Major business risks associated with developing—or not developing—this product. Risk categories include marketplace competition, timing issues, user acceptance, implementation
+issues, and possible negative impacts on the business.
+    - Estimation of the potential loss from each risk, the likelihood of it occurring, and any potential mitigation actions.
+  - Business assumptions and dependencies:
+    - Statements that is believed to be true in the absence of proof or defnitive knowledge. For example, an executive sponsor might set a business objective that a new website will increase revenue by $100,000 per month. To establish this revenue target, the sponsor made some assumptions, perhaps that the new site will attract 200 additional unique visitors per day and that each visitor will spend an average of $17.
+    - Major dependencies the project has on external factors. Examples are pending industry standards or government regulations, deliverables from other projects, third-party suppliers, or development partners.
      
 Document review:
   - Problems and objectives are intertwined: understanding one can reveal the other. Given a set of business objectives, ask, “What is keeping us from achieving the goal?” to identify a more detailed business problem. Or work backward by asking, “Why do we care about that goal?” to better understand the top-level business problem or opportunity. Given a business problem, ask, “How will we assess whether the problem is solved?” to identify the measurable objective. The process is iterative, cycling through the hierarchy of problems and objectives until you see a list of features emerge that would help solve the problems and meet the objectives.
