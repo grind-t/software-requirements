@@ -7,7 +7,7 @@ The document has the following structure:
   - For a corporate information system:
     - Business problem that is being solved or the process being improved.
     - Environment in which the system will be used.
-  -  For a commercial product:
+  - For a commercial product:
     - Business opportunity that exists and the market in which the product will be competing.
   - Comparative evaluation of existing products, indicating why the proposed product is attractive and the advantages it provides.
   - Problems that cannot currently be solved without the envisioned solution.
