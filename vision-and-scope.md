@@ -92,6 +92,11 @@ The document has the following structure:
   - Deployment considerations
     - Users distribution.
     - Infrastructure changes are needed to support the software’s need for capacity, network access, data storage, or data migration.
+- Visual representations:
+  - Context diagram (optional)
+  - Ecosystem map (optional)
+  - Feature tree
+  - Event list (optional)
      
 Document review:
   - Problems and objectives are intertwined: understanding one can reveal the other. Given a set of business objectives, ask, “What is keeping us from achieving the goal?” to identify a more detailed business problem. Or work backward by asking, “Why do we care about that goal?” to better understand the top-level business problem or opportunity. Given a business problem, ask, “How will we assess whether the problem is solved?” to identify the measurable objective. The process is iterative, cycling through the hierarchy of problems and objectives until you see a list of features emerge that would help solve the problems and meet the objectives.
