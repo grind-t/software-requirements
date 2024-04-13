@@ -8,3 +8,4 @@ Users division (user classes) by:
 devices).
   - Their native language.
   - Whether they will interact with the system directly or indirectly.
+  - Position in organization chart.
