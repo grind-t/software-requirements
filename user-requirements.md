@@ -9,3 +9,14 @@ devices).
   - Their native language.
   - Whether they will interact with the system directly or indirectly.
   - Position in organization chart.
+
+Use case:
+  - A unique identifer and a succinct name that states the user goal.
+  - Author and creation date.
+  - Primary and secondary actors.
+  - A brief textual description that describes the purpose of the use case.
+  - A trigger condition that initiates execution of the use case.
+  - Zero or more preconditions that must be satisfed before the use case can begin.
+  - One or more postconditions that describe the state of the system after the use case is successfully completed.
+  - Normal fows, alternative fows, and exceptions.
+  
